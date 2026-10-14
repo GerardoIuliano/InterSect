@@ -155,7 +155,7 @@ python3 scripts/run_interval_uniformity_batch.py --root SamplerResults/Integer -
 Run the InterSect sampler on a single SMT-LIB file.
 
 ```bash
-python3 scripts/InterSect.py path/to/input.smt2 --theta 256 --coverage 50 --U 2**256-1 --timeout 1800
+python3 scripts/InterSect.py path/to/input.smt2 --theta 256 --coverage 50 --U '2**256-1' --timeout 1800
 ```
 
 Parameters:
