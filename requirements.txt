@@ -1,0 +1,8 @@
+markdown-it-py==4.0.0
+matplotlib==3.10.8
+numpy==2.3.5
+openpyxl==3.1.5
+pandas==2.3.3
+tqdm==4.67.3
+z3-solver==4.15.4.0
+scipy==1.16.3
